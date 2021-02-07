@@ -1,0 +1,17 @@
+1. GRID
+	a. Display function
+		creates / updates grid
+		creates / updates X / O
+2. Player vs AI
+	a. MINIMAX recursive pre order binary search
+		score evaluation
+		
+		binary search tree implementation
+		odds player 1 evens player 2
+	b. Console Display
+	c. cursor implementation
+
+3. Game implementation
+	a. State function
+		check to see win loss state
+4. Github implementation
